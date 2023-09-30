@@ -1,4 +1,4 @@
-# [Portofolio]
+# Portofolio
 
 ## Preview
 
@@ -10,7 +10,7 @@
 [![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 
 * http://thevian.github.io
-* [https://www.facebook.com/profile.php?id=100069108975300]
+* https://www.facebook.com/profile.php?id=100069108975300
 * https://github.com/thavian
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/)
