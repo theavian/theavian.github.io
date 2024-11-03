@@ -2,7 +2,7 @@
 
 ## Preview
 
-**[View Live Preview](https://thevian.github.io)**
+**[View Live Preview](https://thevian.is-a.dev)**
 
 ## Status
 
